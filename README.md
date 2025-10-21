@@ -14,10 +14,11 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 
 | File type | File name | Title | Year | Language | Author(s) | Publisher | Keywords | Link |
 | --------- | --------- | ----- | ---- | -------- | --------- | --------- | ----------- | -----|
-| PDF | Download and open locally: [Trees-Field-Drainage-Tiles-Fact-Sheet.pdf](https://github.com/user-attachments/files/22720915/Trees-Field-Drainage-Tiles-Fact-Sheet.pdf) | Farm Tile Drains and Tree Roots | 2012 | EN | T. Leuty | Ontario Ministry of Agriculture, Food, and Rural Affairs | Impact of trees on tile drainage systems | https://www.ontario.ca/page/farm-drainage-systems-and-tree-roots |
+| PDF | Download and open locally: [Trees-Field-Drainage-Tiles-Fact-Sheet.pdf](https://github.com/user-attachments/files/23018154/Trees-Field-Drainage-Tiles-Fact-Sheet.pdf) | Farm Tile Drains and Tree Roots | 2012 | EN | T. Leuty | Ontario Ministry of Agriculture, Food, and Rural Affairs | Impact of trees on tile drainage systems | https://www.ontario.ca/page/farm-drainage-systems-and-tree-roots |
 
 ## NylAF Content
-Other way to access document - open the tab directly in the browser: [Other trial](Trees-Field-Drainage-Tiles-Fact-Sheet.pdf)
+Other way to access document - open the tab directly in the browser: [Other trial](Trees-Field-Drainage-Tiles-Fact-Sheet.pdf)[Trees-Field-Drainage-Tiles-Fact-Sheet.pdf]()
+
 
 ## Funders
-![Funders](NylAFLogoBoardv6_EN_Transparent.png)
+<img width="2394" height="532" alt="NylAFLogoBoardv6_EN_Transparent" src="https://github.com/user-attachments/assets/40a9e95e-872b-4cc9-9b3a-78ffb54e8e69" />
