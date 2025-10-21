@@ -17,7 +17,7 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 | PDF | Download and open locally: [Trees-Field-Drainage-Tiles-Fact-Sheet.pdf](https://github.com/user-attachments/files/23018154/Trees-Field-Drainage-Tiles-Fact-Sheet.pdf) | Farm Tile Drains and Tree Roots | 2012 | EN | T. Leuty | Ontario Ministry of Agriculture, Food, and Rural Affairs | Impact of trees on tile drainage systems | https://www.ontario.ca/page/farm-drainage-systems-and-tree-roots |
 
 ## NylAF Content
-Other way to access document - open the tab directly in the browser: [Other trial](Trees-Field-Drainage-Tiles-Fact-Sheet.pdf)[Trees-Field-Drainage-Tiles-Fact-Sheet.pdf]()
+Other way to access document - open the tab directly in the browser: [Other trial](Trees-Field-Drainage-Tiles-Fact-Sheet.pdf)
 
 
 ## Funders
