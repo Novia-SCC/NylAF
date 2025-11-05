@@ -19,7 +19,7 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 | 5 | Video | [Maps in Agroforestry](https://www.novia.fi/assets/Projectsites/SCC-Spatial-competence-centre/NylAF/Maps_in_Agroforestry.mp4) | 2025 | EN | Aurelie Noel | Novia UAS | Intro to spatial data in agroforestry planning; Johdatus paikkatietoon agrometsäsuunnittelussa; Introduktion till rumsliga data inom agroforestryplanering |
 
 ## NylAF contact
-Joshua Finch - joshua.finch@novia.fi<br/ >
+Joshua Finch - joshua.finch@novia.fi<br />
 Janne Lassila - janne.lassila@novia.fi<br/ >
 Aurelie Noel - aurelie.noel@novia.fi<br/ >
 [Project page](https://www.novia.fi/en/nylandagroforestry/)
