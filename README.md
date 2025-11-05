@@ -11,7 +11,7 @@ In this repository, you will find documents that point you to files we have uplo
 These are documents which are relevant for Finnish agroforestry, useful for your own research, and are open access. Click on the link to download the document to your own computer or open the resource online. 
 
 | # | File type | Title | Year | Language | Author(s) | Publisher | Keywords | Comment |
-| - | --------- | ----- | ---- | -------- | --------- | --------- | -------- | ------- |
+| - | --------- | ----- | ---- | -------- | --------- | --------- | -------- | ----------------- |
 | 1 | Video | [Agroforestry in Nyland (NylAF): Introduction to Agroforestry](https://youtu.be/83WFuWIsDLE?si=lUNvQPylf1peIvwI) | 2025 | EN | Joshua Finch | Novia UAS | Intro | FIN version comes soon |
 | 2 | PDF | [Agroforestry Glossary](https://github.com/user-attachments/files/23363856/Agroforestry.Glossary.FI.SV.EN.pdf) | 2020 | FI, SV, EN | Rimhanen K., Määtänen S., Yirdaw E. | Metsätieteen aikakauskirja | Glossary, sanasto, ordlista | |
 | 3 | PDF | [Puustoinen maatalous Suomessa](https://github.com/user-attachments/files/23363323/Puustoinen_maatalous_suomessa_2023_taitettu.pdf) | 2023 | FI | Mattila, I., den Herder M., Mattila, T., Mäkinen K., Rosenberg, J. | Iiris Mattila (Kilpiän tila) | Book, research book; Kirja, tutkimuskirja; Bok, forskningsbok | |
@@ -19,11 +19,10 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 | 5 | Video | [Maps in Agroforestry](https://www.novia.fi/assets/Projectsites/SCC-Spatial-competence-centre/NylAF/Maps_in_Agroforestry.mp4) | 2025 | EN | Aurelie Noel | Novia UAS | Intro to spatial data in agroforestry planning; Johdatus paikkatietoon agrometsäsuunnittelussa; Introduktion till rumsliga data inom agroforestryplanering |
 
 ## NylAF contact
-Joshua Finch - joshua.finch@novia.fi</br>
-Janne Lassila - janne.lassila@novia.fi</br>
-Aurelie Noel - aurelie.noel@novia.fi</br>
+Joshua Finch - joshua.finch@novia.fi<br/ >
+Janne Lassila - janne.lassila@novia.fi<br/ >
+Aurelie Noel - aurelie.noel@novia.fi<br/ >
 [Project page](https://www.novia.fi/en/nylandagroforestry/)
-
 
 
 ## Funders
