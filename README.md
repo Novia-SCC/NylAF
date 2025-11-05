@@ -15,7 +15,9 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 | File type | Title | Year | Language | Author(s) | Publisher | Keywords |
 | --------- | ----- | ---- | -------- | --------- | --------- | ----------- |
 | Video | [Agroforestry in Nyland (NylAF): Introduction to Agroforestry](https://youtu.be/83WFuWIsDLE?si=lUNvQPylf1peIvwI) | 2025 | EN | Joshua Finch | Novia UAS | Intro - FIN version comes soon | 
-| PDF | [Agroforestry Glossary](https://doi.org/10.14214/ma.10408) | 2020 | FI, SV, EN | Rimhanen K., Määtänen S., Yirdaw E. | Glossary, sanasto, ordlista |
+| PDF | [Agroforestry Glossary](https://doi.org/10.14214/ma.10408) | 2020 | FI, SV, EN | Rimhanen K., Määtänen S., Yirdaw E. | Metsätieteen aikakauskirja | Glossary, sanasto, ordlista |
+| PDF | [Suomessa menestyviä puu- ja pensaslajeja agrometsäkäyttöön](https://github.com/user-attachments/files/23363323/Puustoinen_maatalous_suomessa_2023_taitettu.pdf)
+ | 2023 | FI | Juha Ujula, Iiris Mattila | Iiris Mattila (Kilpiän tila) | Tree List Appendix, Puu ja Pensaslajeja Liite, Träd och Buske bilaga |
 
 ## NylAF contact
 Other way to access document - open the tab directly in the browser: [Other trial](Trees-Field-Drainage-Tiles-Fact-Sheet.pdf)
