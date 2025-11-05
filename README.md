@@ -20,8 +20,8 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 
 ## NylAF contact
 Joshua Finch - joshua.finch@novia.fi<br />
-Janne Lassila - janne.lassila@novia.fi<br/ >
-Aurelie Noel - aurelie.noel@novia.fi<br/ >
+Janne Lassila - janne.lassila@novia.fi<br />
+Aurelie Noel - aurelie.noel@novia.fi<br />
 [Project page](https://www.novia.fi/en/nylandagroforestry/)
 
 
