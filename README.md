@@ -1,14 +1,16 @@
 # Agroforestry resources repository
 ## Table of content
   * [Description](#description)
-  * [Agroforestry Exploration Program: Introductory Material](#agroforestry-exploration-program:-introductory-material)
+  * [Agroforestry Exploration Program](#agroforestry-exploration-program)
   * [NylAF contact](#nylaf-contact)
   * [Funders](#funders)
     
 ## Description
 In this repository, you will find documents that point you to files we have uploaded and/or videos created during the NylAF Project.
-## Agroforestry Exploration Program: Introductory Material
-Peltometsäviljelyn Tutustumispolku<br />
+
+## Agroforestry Exploration Program
+
+### Introductory Material (Peltometsäviljelyn Tutustumispolku)<br />
 These are documents which are relevant for Finnish agroforestry, useful for your own research, and are open access. Click on the link to download the document to your own computer or open the resource online. 
 
 | # | File type | Title | Year | Language | Author(s) | Publisher | Keywords | Comment |
