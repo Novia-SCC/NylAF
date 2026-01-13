@@ -21,6 +21,7 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 | 4 | PDF | [Suomessa menestyviä puu- ja pensaslajeja agrometsäkäyttöön](https://github.com/user-attachments/files/23363453/Liite.1.Agroforestry.puulajiluettelo_Ujula_2023_LOPULLINEN.pdf) | 2023 | FI | Juha Ujula, Iiris Mattila | Iiris Mattila (Kilpiän tila) | Tree List Appendix <br />Puu ja Pensaslajeja Liite <br />Träd och Buske bilaga | | 
 | 5 | Video | [Maps in Agroforestry](https://www.novia.fi/assets/Projectsites/SCC-Spatial-competence-centre/NylAF/Maps_in_Agroforestry.mp4) | 2025 | EN | Aurelie Noel | Novia UAS | Intro to spatial data in agroforestry planning <br />Johdatus paikkatietoon agrometsäsuunnittelussa <br />Introduktion till spatiella data inom agroforestryplanering |
 | 6 | Video | [How to read and use the scale ruler](https://www.youtube.com/watch?v=6ImZQP9ALAc) | 2021 | EN | Architect Channel | Youtube | Architect ruler | Paced guidance, possible to change the playback speed, up to 2x |
+| 7 | Video | [Peltometsäviljelyn Perusteet](https://www.youtube.com/watch?v=2mT2CjG_fKQ) | 2026 | FI | Agroforestry in Nyland | Youtube | Janne Lassila |  |
 
 ## NylAF contact
 Joshua Finch - joshua.finch@novia.fi<br />
