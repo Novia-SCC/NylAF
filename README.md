@@ -31,4 +31,4 @@ Aurelie Noel - aurelie.noel@novia.fi<br />
 
 
 ## Funders
-<img width="2394" height="332" alt="NylAFLogoBoardv6_EN_Transparent" src="https://github.com/user-attachments/assets/40a9e95e-872b-4cc9-9b3a-78ffb54e8e69" />
+<img width="2394" height="320" alt="NylAFLogoBoardv6_EN_Transparent" src="https://github.com/user-attachments/assets/40a9e95e-872b-4cc9-9b3a-78ffb54e8e69" />
